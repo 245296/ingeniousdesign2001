@@ -261,3 +261,6 @@ hr{
     padding-bottom: 20px;
     text-align: center;
 }
+
+.navbar-brand{
+   filter: invert(100%);}
