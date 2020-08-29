@@ -262,6 +262,7 @@ hr{
     text-align: center;
 }
 
-.navbar-brand{
+.navbar-brand
+{
    filter: invert(100%);
 }
